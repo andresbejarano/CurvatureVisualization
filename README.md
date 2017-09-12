@@ -1,5 +1,5 @@
 # CurvatureVisualization
-A basic tool built using C++ and VTK for visualizing both Principal Curvatures and the Gaussian Curvature of parametrized meshes (cylinder, cone, ellipsoid and torus)
+A basic tool built using C++ and VTK for visualizing both Principal Curvatures and the Gaussian Curvature of parametric meshes (cylinder, cone, ellipsoid and torus)
 
 ## Instructions
 Use 1 - 4 keys for changing the solids:
