@@ -1,3 +1,10 @@
+<div style="display:inline; text-align:center;">
+  <img src="https://github.com/andresbejarano/CurvatureVisualization/blob/master/images/cylinder.jpg" width="200" />
+  <img src="https://github.com/andresbejarano/CurvatureVisualization/blob/master/images/cone.jpg" width="200" />
+  <img src="https://github.com/andresbejarano/CurvatureVisualization/blob/master/images/ellipsoid.jpg" width="200" />
+  <img src="https://github.com/andresbejarano/CurvatureVisualization/blob/master/images/torus.jpg" width="200" />
+</div>
+
 # CurvatureVisualization
 A basic tool built using C++ and VTK for visualizing both Principal Curvatures and the Gaussian Curvature of parametric meshes (cylinder, cone, ellipsoid and torus)
 
